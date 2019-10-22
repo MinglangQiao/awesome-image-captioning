@@ -70,7 +70,7 @@ Markdown format:
 ### 2017
 * [Captioning Images with Diverse Objects](http://arxiv.org/abs/1606.07770) - Venugopalan S et al, `CVPR 2017`. [[code]](https://github.com/vsubhashini/noc)
 * [Top-down Visual Saliency Guided by Captions](https://arxiv.org/abs/1612.07360) - Ramanishka V et al, `CVPR 2017`. [[code]](https://github.com/VisionLearningGroup/caption-guided-saliency)
-* [Self-Critical Sequence Training for Image Captioning](https://arxiv.org/abs/1612.00563) - Steven J et al, `CVPR 2017`. [[code]](https://github.com/ruotianluo/self-critical.pytorch)
+* [Self-Critical Sequence Training for Image Captioning](https://arxiv.org/abs/1612.00563) - Steven J et al, `CVPR 2017 cite 380+`. [[code]](https://github.com/ruotianluo/self-critical.pytorch)
 * [Dense Captioning with Joint Inference and Visual Context](https://arxiv.org/abs/1611.06949) - Yang L et al, `CVPR 2017`. [[code]](https://github.com/linjieyangsc/densecap)
 * [Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition](https://arxiv.org/abs/1704.06972) - Yufei W et al, `CVPR 2017`. [[code]](https://github.com/feiyu1990/Skeleton-key)
 * [A Hierarchical Approach for Generating Descriptive Image Paragraphs](https://arxiv.org/abs/1611.06607) - Krause J et al, `CVPR 2017`. [[code]](https://github.com/InnerPeace-Wu/im2p-tensorflow)
